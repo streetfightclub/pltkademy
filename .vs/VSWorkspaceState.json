@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\conf",
+    "\\contrib",
+    "\\contrib\\unicode2nginx",
+    "\\docs",
+    "\\html",
+    "\\temp"
+  ],
+  "SelectedNode": "\\conf\\nginx.conf",
+  "PreviewInSolutionExplorer": false
+}
